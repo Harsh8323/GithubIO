@@ -2,7 +2,7 @@
 
 **GitHubIO** is a sleek and responsive web application built using **HTML**, **CSS**, and **JavaScript**. It leverages the **GitHub API** to fetch and display GitHub user profiles, repositories, and follower data. The app includes features like skeleton loading, dark/light mode, and full responsiveness for various screen sizes (laptop, tablet, mobile).
 
-![GitHubIO Screenshot](https://drive.google.com/file/d/1Zune7UQcwmWmpocwy5VnfR9TWuk_DwzH/view?usp=sharing) <!-- Replace with an actual screenshot link -->
+![GitHubIO Screenshot](https://imgur.com/AQBgkYp) <!-- Replace with an actual screenshot link -->
 
 ## 🚀 Features
 
@@ -25,8 +25,8 @@
 
 ## 📸 Screenshots
 
-![GitHubIO Dark Mode](https://drive.google.com/file/d/1TbRVSz5VtXXnJyXx21-WkbOpFRbONa16/view?usp=sharing) <!-- Replace with an actual screenshot link -->
-![GitHubIO Light Mode](https://drive.google.com/file/d/1ormAh0MD_rvDUNOfsEl36p-mCL_tH51i/view?usp=sharing) <!-- Replace with an actual screenshot link -->
+![GitHubIO Dark Mode](https://imgur.com/9Ij9A6D) <!-- Replace with an actual screenshot link -->
+![GitHubIO Light Mode](https://imgur.com/hgy49j0) <!-- Replace with an actual screenshot link -->
 
 ## ⚙️ Installation and Setup
 
@@ -34,4 +34,4 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GitHubIO.git
+   git clone https://github.com/harsh8323/GitHubIO.git
