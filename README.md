@@ -2,7 +2,7 @@
 
 **GitHubIO** is a sleek and responsive web application built using **HTML**, **CSS**, and **JavaScript**. It leverages the **GitHub API** to fetch and display GitHub user profiles, repositories, and follower data. The app includes features like skeleton loading, dark/light mode, and full responsiveness for various screen sizes (laptop, tablet, mobile).
 
-![GitHubIO Screenshot](link_to_screenshot) <!-- Replace with an actual screenshot link -->
+![GitHubIO Screenshot](https://drive.google.com/file/d/1Zune7UQcwmWmpocwy5VnfR9TWuk_DwzH/view?usp=sharing) <!-- Replace with an actual screenshot link -->
 
 ## 🚀 Features
 
