@@ -1,61 +1,37 @@
+# GitHubIO
 
-# Project Title
+**GitHubIO** is a sleek and responsive web application built using **HTML**, **CSS**, and **JavaScript**. It leverages the **GitHub API** to fetch and display GitHub user profiles, repositories, and follower data. The app includes features like skeleton loading, dark/light mode, and full responsiveness for various screen sizes (laptop, tablet, mobile).
 
-A brief description of what this project does and who it's for
+![GitHubIO Screenshot](link_to_screenshot) <!-- Replace with an actual screenshot link -->
 
-## Tech Stack
+## 🚀 Features
 
-**Client:** HTML, CSS, JavaScript, API
+- **GitHub User Search**: Quickly find GitHub users by entering their username.
+- **Profile Details**: View user details including avatar, bio, repositories, followers, and following count.
+- **Repository Info**: Displays public repositories with details like stars, forks, and programming language.
+- **Skeleton Loading**: Smooth skeleton loading animation while fetching data from the GitHub API.
+- **Dark and Light Mode**: Toggle between dark and light themes for a better visual experience.
+- **Responsive Design**: Fully responsive layout compatible with laptops, tablets, and mobile devices.
 
-## Demo
+## 💻 Technologies Used
 
-Insert gif or link to demo
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **GitHub API**
+- **Responsive Design (Media Queries)**
+- **Skeleton Loading**
+- **Dark/Light Mode**
 
-## Features
+## 📸 Screenshots
 
-- Feature 1
-- Feature 2
-- Feature 3
+![GitHubIO Dark Mode](link_to_dark_mode_screenshot) <!-- Replace with an actual screenshot link -->
+![GitHubIO Light Mode](link_to_light_mode_screenshot) <!-- Replace with an actual screenshot link -->
 
-## Screenshots
+## ⚙️ Installation and Setup
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+To get a local copy of the project up and running, follow these steps:
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
-
-
-## Authors
-
-- [@codewithsadee](https://www.github.com/codewithsadee)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/GitHubIO.git
