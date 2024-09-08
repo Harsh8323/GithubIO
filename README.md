@@ -25,8 +25,8 @@
 
 ## 📸 Screenshots
 
-![GitHubIO Dark Mode](link_to_dark_mode_screenshot) <!-- Replace with an actual screenshot link -->
-![GitHubIO Light Mode](link_to_light_mode_screenshot) <!-- Replace with an actual screenshot link -->
+![GitHubIO Dark Mode](https://drive.google.com/file/d/1TbRVSz5VtXXnJyXx21-WkbOpFRbONa16/view?usp=sharing) <!-- Replace with an actual screenshot link -->
+![GitHubIO Light Mode](https://drive.google.com/file/d/1ormAh0MD_rvDUNOfsEl36p-mCL_tH51i/view?usp=sharing) <!-- Replace with an actual screenshot link -->
 
 ## ⚙️ Installation and Setup
 
