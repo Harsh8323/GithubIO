@@ -100,6 +100,9 @@ const $error = document.querySelector("[data-error]");
 window.updateProfile = function (profileUrl) {
   $error.style.display = "none";
   document.body.style.overflowY = "visible";
+  repos_current_page = 1;
+  isDoneRepos = false;
+  forkedRepos = [];
 
   $profileCard.innerHTML = `
     <div class="profile-skeleton">
